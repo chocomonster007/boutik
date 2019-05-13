@@ -17,7 +17,8 @@ font-size: 40px;
  nav ul{
  	vertical-align: top;}
 
- nav ul li:hover a{background-color: black;}
+ nav ul li:hover a{background-color: black;
+ }
 
  nav ul li.acc{padding-left: 16%;}
  nav ul li.cat{padding-left: 16%;}
@@ -77,6 +78,5 @@ margin-top: 4%}
 div.cata p{
 font-size: 30px;
 text-align: center;
-
-
 }
+
