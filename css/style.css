@@ -25,17 +25,18 @@ font-size: 40px;
 
  header{background-color: black;
 vertical-align: top;
+
  }
 
  header p{color: white;
- 	padding-left: 35%;
+ 	text-align: center;
  font-size: 30px;
 
 }
 
 h1.c{color:white;
 	margin-top: 12%;
-	margin-left: 42%;
+	text-align: center;
 font-size: 40px;
 
 }
@@ -45,7 +46,7 @@ font-size: 40px;
 h1.cc{
 font-size: 55px;
 margin-top: 2%;
-margin-left: 42%;
+text-align: center;
 color: white;
 
 }
@@ -54,7 +55,7 @@ body{background-repeat: no-repeat;
 background-size: 100%;}
 
 div.para h1{font-family: sherif;
-margin-left: 45%;
+text-align: center;
 font-size: 30px;
 margin-top: 40%}
 
