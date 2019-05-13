@@ -50,19 +50,32 @@ color: white;
 
 }
 
-div.pr{padding-left: 600px;
-padding-top: 0px;
-background-color: white;
+body{background-repeat: no-repeat;
+background-size: 100%;}
 
- }
+div.para h1{font-family: sherif;
+margin-left: 45%;
+font-size: 30px;
+margin-top: 40%}
 
-
-div.pho p{
-padding-left: 500px;
-margin-top: 800px;
-background-color: white;
+div.para p{font-family: sherif;
+	margin-left: 30%;
+	margin-right: 30%;
+	text-align-last: center;
 
 }
 
-body{background-repeat: no-repeat;
-background-size: 100%;}
+div.cata h1{font-family: sherif;
+text-align: center;
+margin-top: 8%;}
+
+div.cata img{width: 50%;
+margin-left: 23%;
+margin-top: 4%}
+
+div.cata p{
+font-size: 30px;
+text-align: center;
+
+
+}
